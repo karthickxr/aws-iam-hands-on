@@ -16,8 +16,8 @@ To implement and validate AWS Identity and Access Management (IAM) by creating u
 7. Verified denied access to Amazon S3 when attempting to create a bucket.
 
 ## Access Validation
-- EC2 access: ✅ Allowed (Read-only)
-- S3 access: ❌ Access denied (CreateBucket action)
+- EC2 access: Allowed (Read-only)
+- S3 access:  Access denied (CreateBucket action)
 
 ## IAM Concepts Covered
 - IAM Users
